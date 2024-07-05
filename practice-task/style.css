@@ -1,0 +1,23 @@
+
+/* task 1 styles */
+main{
+    margin-top: 30px;
+  
+    
+}
+hr{
+    height: 20px;
+    background-color: lightcoral;
+}
+.cat{
+    margin-block: 20px;
+}
+
+/* task 2 styles */
+table{
+    border-collapse: collapse;
+}
+td ,th{
+    border: 1px solid #6b6060;
+    padding: 5px 10px;
+}
